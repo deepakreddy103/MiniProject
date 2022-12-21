@@ -1,0 +1,2 @@
+# MiniProject
+Student app registration
